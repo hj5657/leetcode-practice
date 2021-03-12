@@ -1,3 +1,5 @@
+package array;
+
 public class Num59 {
 
   public int[][] generateMatrix(int n) {

@@ -1,3 +1,5 @@
+package array;
+
 class Num35 {
 
   public int searchInsert(int[] nums, int target) {

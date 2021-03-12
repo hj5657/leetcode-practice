@@ -1,3 +1,5 @@
+package array;
+
 class Num27 {
 
   public int removeElement(int[] nums, int val) {
